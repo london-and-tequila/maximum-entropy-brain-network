@@ -1,4 +1,4 @@
-#Maximum Entropy Brain Network
+# Maximum Entropy Brain Network
 Codes and data for 
 Yuru Song, Douglas Zhou, Songting Li, Maximum Entropy Principle Underlies Wiring Length Distribution in Brain Networks, 
 Cerebral Cortex, Volume 31, Issue 10, October 2021,
